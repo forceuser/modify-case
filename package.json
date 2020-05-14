@@ -1,12 +1,20 @@
 {
   "name": "modify-case",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "forceuserz@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forceuser/modify-case.git"
+  },
+  "bugs": {
+    "url": "https://github.com/forceuser/modify-case/issues"
+  },
+  "homepage": "https://github.com/forceuser/modify-case#readme",
+  "description": ""
 }
